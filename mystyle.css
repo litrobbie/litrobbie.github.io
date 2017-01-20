@@ -1,0 +1,48 @@
+body {
+	background: rgb(219,68,55);
+    color: white;
+    font-size: 35px;
+}
+header {
+      text-align: center;
+      background: url('http://albawardilawfirm.com/wp-content/uploads/Football-Field-Black-And-White-Hd-Images-3-HD-Wallpapers.jpg');
+      background-size: cover;
+      color: rgb(66,133,244);
+    }
+    #soccer-stadium {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 40px;
+    }
+    #main-text{
+        text-align: center;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 65px;
+	}
+    #image-list{
+        color: black;
+        font-size: 35px;
+    }
+    }-
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+    h1{
+     font-family: Arial; 
+    }
