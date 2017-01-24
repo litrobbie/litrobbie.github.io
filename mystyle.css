@@ -19,8 +19,8 @@ header {
     }
     #soccer-image{
 	float: right;
-	border: 7px solid white;
-        border-radius: 40px;
+	border-style: solid;
+        border-width: medium;
     }
     a { 
       color: white;
