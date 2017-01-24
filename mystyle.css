@@ -17,6 +17,9 @@ header {
     #main-text{
         text-align: center;
     }
+    #soccer-image{
+	float: right;
+    }
     a { 
       color: white;
     }
