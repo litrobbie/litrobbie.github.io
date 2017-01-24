@@ -20,7 +20,7 @@ header {
     #soccer-image{
 	float: right;
 	border-style: solid;
-	border-width: medium;
+	border-width: 75px;
     }
     a { 
       color: white;
