@@ -25,17 +25,13 @@ header {
     a { 
       color: white;
       }
-    #all-text {
-      text-align: center;
-      }
     h1 {
       font-size: 65px;
 	}
     #image-list{
         color: black;
         font-size: 35px;
-    }
-    }-
+        }
     article {
       max-width: 500px;
       padding: 20px;
