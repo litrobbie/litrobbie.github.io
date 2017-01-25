@@ -24,7 +24,10 @@ header {
     }
     a { 
       color: white;
-    }
+      }
+    p {
+      text-align: center;
+      }
     h1 {
       font-size: 65px;
 	}
