@@ -19,6 +19,7 @@ header {
     }
 #code-picture{
 	text-align: left;
+	word-wrap: break-word;
 	}
     #soccer-image{
 	float: right;
