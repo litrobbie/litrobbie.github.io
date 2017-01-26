@@ -17,6 +17,9 @@ header {
     #main-text{
         text-align: center;
     }
+#code-picture{
+	float: center;
+	}
     #soccer-image{
 	float: right;
 	border-style: solid;
