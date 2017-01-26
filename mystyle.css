@@ -1,7 +1,7 @@
 body {
 	background: rgb(219,68,55);
     color: white;
-    font-size: 35px;
+    font-size: 15px;
 }
 header {
       text-align: center;
@@ -26,11 +26,11 @@ header {
       color: white;
       }
     h1 {
-      font-size: 65px;
+      font-size: 35px;
 	}
     #image-list{
         color: black;
-        font-size: 35px;
+        font-size: 25px;
         }
     article {
       max-width: 500px;
