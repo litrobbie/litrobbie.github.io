@@ -22,6 +22,10 @@ header {
 	border-style: solid;
         border-width: medium;
     }
+#code-picture{
+	float: right;
+	border-style: solid;
+        border-width: medium;}
     a { 
       color: white;
       }
